@@ -11,7 +11,7 @@ All you have to do is open the project folder with your code editor and click ru
 Don't forget to check if the .jar exists within the scala-2.12 folder if not generate it using 'assembly'
 in the sbt shell
 
-// Examples of Functions to test our Calculator :
+Examples of Functions to test our Calculator :
 
     3*(7+1) (scaling problem for the first derivative)
     3*x+17.3
